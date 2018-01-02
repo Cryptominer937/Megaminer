@@ -9,7 +9,7 @@
 "Dualmining":false,
 "PrelaunchCommand":"",
 "Algorithms": [
-        {"Lyra2v2":"-i23"}
+        {"Lyra2v2":"-I 23"}
         ]
 
 }
